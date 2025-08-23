@@ -81,7 +81,8 @@
 <div align="center">
    
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=Portfolio&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/Portfolio)
-[![QuizFrontend](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=QuizFrontend&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/quiz_frontend)
+[![QuizFrontend](https://github-readme-stats.vercel.app/api/pin/?username=nguyennanhcd&repo=quiz_frontend&theme=gotham&border_color=54a68b)](https://github.com/nguyennanhcd/quiz_frontend)
+
 </div>
 
 ---
