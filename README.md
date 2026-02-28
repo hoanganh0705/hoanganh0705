@@ -130,5 +130,5 @@ func main() {
 ---
 
 <div align="center">
-  <img src="./svg/thanks.svg" alt="Thank you" />
+  <img src="./svg/thanks.svg" alt="Thank you for visiting my GitHub page" />
 </div>
